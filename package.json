@@ -1,0 +1,26 @@
+{
+  "name": "tema-5",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /tema-5/",
+    "predeplooy": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kret1ks/tema-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kret1ks/tema-5/issues"
+  },
+  "homepage": "https://github.com/kret1ks/tema-5#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
