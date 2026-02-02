@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/kret1ks/tema-5#readme",
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "parcel": "^2.16.4"
   }
 }
