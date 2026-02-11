@@ -19,7 +19,7 @@ const keys = ["a", "b", "c", "d", "c", "n", "m", "k", "p", "q"]
 let currentKeyIndex = Math.floor((Math.random() * (keys.length-1 -1) +1))
 divRef.textContent = keys[currentKeyIndex]
 // Math.floor(Math.random() * (max - min + 1)) + min;
-window.addEventListener("keydown", () => {
+window.addEventListener("keydown", (event) => {
     if(event.key === divRef.textContent) {
        success({    
         title: 'Success!',
