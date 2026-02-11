@@ -1,4 +1,12 @@
-h1 {
-  color: #00c4c4;
+.game {
+  color: #fff;
+  background-color: #0ff;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  font-size: 150px;
+  display: flex;
 }
 /*# sourceMappingURL=tema-5.2cdaf7bc.css.map */
