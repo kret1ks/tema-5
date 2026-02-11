@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/kret1ks/tema-5/issues"
   },
-  "homepage": "https://github.com/kret1ks/tema-5#readme",
+  "homepage": "https://kret1ks.github.io/tema-5/",
   "devDependencies": {
     "@pnotify/core": "^5.2.0",
     "@pnotify/mobile": "^5.2.0",
